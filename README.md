@@ -24,9 +24,9 @@ This App is designed for those who needs to send group SMS very often, such as m
 # Advanced Functions
 These functions are based on the basic ones, which means only after basic functions are finished, will we consider add these advanced functions into our App. Also, these functions may not be achieved by App Inventor. So whether these functions will appear in our app still needs future consideration.
 
-1. Create, edit, upload use and delete message templates.
+1. Create, edit, upload, use and delete message templates.
 2. Send SMS at certain time automatically.
-3. Add different "names" into the messages to different phone numbers. (e.g. A group contains 2 people, Mike and Nick, whose phone numbers are 110 and 120. The sender want to send blessing SMS to them, such as "Happy new year!". This function allows the sender to send different SMS to Mike and Nick using the same template. The message Mike receives is "Mike, happy new year1" and Nick receives "Nick, happy new year!")
+3. Add different "names" into the messages to different phone numbers. (e.g. A group contains 2 people, Mike and Nick, whose phone numbers are 110 and 120. The sender want to send blessing SMS to them, such as "Happy new year!". This function allows the sender to send different SMS to Mike and Nick using the same template. The message Mike receives is "Mike, happy new year!" and Nick receives "Nick, happy new year!")
 
 
 # Development Platform 
