@@ -8,5 +8,8 @@ This is the repository created by Qi Bin and Sun Hu to store the files we make o
 2. Basic Functions
    Send group messages.
    Create, delete and revise groups.
-   Add, delete and revise names and phone numbers in the certain group phone numbers from the user's phoen dictionary.
+   Add, delete and revise the names and the phone numbers in the chosen group.
+   Add new names and phone numbers from the users
    Manage the groups.
+
+3. 
