@@ -15,7 +15,7 @@
    * [作品实现](zuo_pin_shi_xian.md)
    * [特色分析](te_se_fen_xi.md)
    * [难点和解决方案](nan_dian_he_jie_jue_fang_an.md)
-* 团队介绍和人员分工
+* [团队介绍和人员分工](tuan_dui_jie_shao_he_ren_yuan_fen_gong.md)
 * 使用后反馈
 * 预想更新功能
 
