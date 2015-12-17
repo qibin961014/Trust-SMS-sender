@@ -8,7 +8,7 @@
    * [可行性分析](ke_xing_xing_fen_xi.md)
    * [目标群体](mu_biao_qun_ti.md)
 * [作品功能和原型设计](zuo_pin_gong_neng_he_yuan_xing_she_ji.md)
-   * 总体功能结构
+   * [总体功能结构](zong_ti_gong_neng_jie_gou.md)
    * 具体功能模块设计
    * 界面设计
 * 作品实现、特点和难点
