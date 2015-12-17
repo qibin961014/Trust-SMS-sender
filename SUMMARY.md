@@ -4,7 +4,7 @@
 * [概述](1_gai_shu.md)
    * [选题背景](xuan_ti_bei_jing.md)
    * [项目意义](xiangmu_yi_yi.md)
-* 可行性分析和目标群体
+* [可行性分析和目标群体](ke_xing_xing_fen_xi_he_mu_biao_qun_ti.md)
    * 可行性分析
    * 目标群体
 * 作品功能和原型设计
