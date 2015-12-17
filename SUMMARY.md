@@ -14,7 +14,7 @@
 * [作品实现、特点和难点](zuo_pin_shi_xian_3001_te_dian_he_nan_dian.md)
    * [作品实现](zuo_pin_shi_xian.md)
    * [特色分析](te_se_fen_xi.md)
-   * 难点和解决方案
+   * [难点和解决方案](nan_dian_he_jie_jue_fang_an.md)
 * 团队介绍和人员分工
 * 使用后反馈
 * 预想更新功能
