@@ -5,7 +5,7 @@
    * [选题背景](xuan_ti_bei_jing.md)
    * [项目意义](xiangmu_yi_yi.md)
 * [可行性分析和目标群体](kexingxing_fen_xi_he_mu_biao_qun_ti_md.md)
-   * 可行性分析
+   * [可行性分析](ke_xing_xing_fen_xi.md)
    * 目标群体
 * 作品功能和原型设计
    * 总体功能结构
