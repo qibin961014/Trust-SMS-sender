@@ -17,3 +17,9 @@
 * **管理群组**
 
 <center>
+![](E6D627A8A281BE16F29385571CB66FF5.jpg)
+
+* **编辑群组**
+
+<center>
+![](6CD759EBAE68159F56EA3897ECB8D37D.jpg)
