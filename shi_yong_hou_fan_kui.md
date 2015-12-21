@@ -8,7 +8,7 @@
 
 |  <center>**试用者** | <center>**人数** | <center><center>**占比**|
 | -- | -- | -- |
-| <center>学生会工作人员 | <center>15 | <center>42.86% |
+| <center>学生会 | <center>15 | <center>42.86% |
 | <center>助教| <center>5 | <center>14.26% |
 | <center>快递小哥 | <center>1 | <center>2.86% |
 | <center>其他| <center>14 | <center>14.00% |
@@ -38,4 +38,12 @@
 
 * 操作简易型
 
-<center>
+<center>![](操作简易性.png)
+
+　　平均分3.83
+
+* 应用价值
+
+<center>![](应用价值.png)
+
+　　平均分4.26
