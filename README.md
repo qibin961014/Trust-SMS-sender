@@ -1,5 +1,5 @@
 <br><br><br><br><br><br><br><br><br><br><br><br>
-<center>　![](mzl.bwtqfepy.png)
+<center>　
 # <center>**“相信” （Trust）**
 
 ## <center>**项目报告**
