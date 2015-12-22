@@ -19,32 +19,32 @@
 
 * 基本功能实现
 
-<center>![](基本功能实现.png)
+<center>![](jibengongnengshixian.png)
 
 　　平均分4.11
 　
 * 高级功能实现
 
-<center>![](高级功能实现.png)
+<center>![](gaojigongnengshixian.png)
 
 　　平均分4.23
 
 
 * 界面设计
 
-<center>![](界面设计.png)
+<center>![](jiemiansheji.png)
 
 　　平均分3.03
 
 * 操作简易型
 
-<center>![](操作简易性.png)
+<center>![](caozuojianyixing.png)
 
 　　平均分3.83
 
 * 应用价值
 
-<center>![](应用价值.png)
+<center>![](yingyongjiazhi.png)
 
 　　平均分4.26 <br><br>
 
