@@ -1,4 +1,4 @@
-<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br>
 
 # <center>**“相信” （Trust）**
 
